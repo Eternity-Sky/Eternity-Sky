@@ -1,6 +1,5 @@
-你好！👋
-### 团队处于寒假期，可能举办团内比赛。
-最近一次更新：upd on 2024/11/24 17:36
+### 团队处于寒假期，可能举办团内比赛。(这个寒假已经举办两个了，大概率不会再举办了)(eternity-sky:谁说的？)
+最近一次更新：upd on 2025/1/30 20:37
 ### 快转发给你的好友：
 > ### *天空凌日武灵城邀您入驻！[https://www.luogu.com.cn/team/87144](https://www.luogu.com.cn/team/87144)！*
 > 入团须知详见概览页。
@@ -17,7 +16,7 @@
 ![天空凌日武灵城](https://cdn.luogu.com.cn/upload/image_hosting/tp8j69so.png)
 ### 搞笑图
 ![](https://cdn.luogu.com.cn/upload/image_hosting/acqj18g4.png)
-(九重秋鸽简和: ...6)
+(九重秋鸽: ...6)
 ### 计数（刷新试试）
 #### ❤Minecraft❤
 ![](https://count.mchan.top/get/@%E5%A4%A9%E7%A9%BA%E5%87%8C%E6%97%A5%E6%AD%A6%E7%81%B5%E5%9F%8E?theme=minecraft)
@@ -77,7 +76,7 @@ CB_X2_Jun:【ryc 我警告你不许再整打油诗了！】
 - 比赛作弊。
 ### 当管理员条件
 - 在现实世界中是 [CB_X2_Jun](https://www.luogu.com.cn/user/1219707) 的朋友。  
-如：[150gemingde](https://www.luogu.com.cn/user/1255410)
+如：[150gemingde](https://www.luogu.com.cn/user/1255410)、[github_eternity_sky](https://www.luogu.com.cn/user/1276392)、[niuhongyi](https://www.luogu.com.cn/user/1043220)
 - 凌武币数量排名靠前。  
 如：[ryc1234567](https://www.luogu.com.cn/user/1059015)
 - 对团队有较大贡献。  
@@ -151,7 +150,7 @@ CB_X2_Jun:【ryc 我警告你不许再整打油诗了！】
 > - **国庆快乐！**
 > - **新中国成立 $\Large\color{red} 75$ 周年！**
 > ### 2024/10/4
-> - [OY\_\_\_\_\_](https://www.luogu.com.cn/user/1264874) join
+> - [oy01](https://www.luogu.com.cn/user/1264874) join
 > - 添加搞笑图
 > ### 2024/10/5
 > - [PCLII](https://www.luogu.com.cn/user/1321826) join
@@ -175,3 +174,23 @@ CB_X2_Jun:【ryc 我警告你不许再整打油诗了！】
 > ### 2025/1/23
 > - [github_eternity_sky](https://www.luogu.com.cn/user/1276392) join
 > - [github_eternity_sky](https://www.luogu.com.cn/user/1276392) 成为管理员
+> ### 2025/1/26
+> - [luogu_00](https://www.luogu.com.cn/user/1049033) join
+> ### 2025/1/27
+> - [STSC OI - Round 2](https://www.luogu.com.cn/contest/228416) 开始
+> - [Juice_Jiouge](https://www.luogu.com.cn/user/711650) 升为【日曜】
+> ### 2025/1/28
+> - 祝大家 $\huge \color{red} 除夕快乐$
+> - [niuhongyi](https://www.luogu.com.cn/user/1043220) 成为管理员
+> - [STSC OI - Round 3](https://www.luogu.com.cn/contest/228511) 开始，由~~可 ai 的~~ [github_eternity_sky](https://www.luogu.com.cn/user/1276392) 出题并举办
+> ### 2025/1/29
+> - 祝大家 $\huge \color{red} 春节快乐$
+> - [STSC OI - Round 3](https://www.luogu.com.cn/contest/228511) 结束，没有奖励
+> ### 2025/1/30
+> - [STSC OI - Round 2](https://www.luogu.com.cn/contest/228416) 结束，奖励暂未发放完毕
+> - [Juice_Jiouge](https://www.luogu.com.cn/user/711650) 升为【光曜】
+> - [github_eternity_sky](https://www.luogu.com.cn/user/1276392) 升为【月辉】
+> - [ryc1234567](https://www.luogu.com.cn/user/1059015) 升为【寰宇】
+> - [STSC OI - Round 2](https://www.luogu.com.cn/contest/228416) 奖励发放完毕，参与者均有奖
+> ### 2025/2/1
+> - [liangyimim](https://www.luogu.com.cn/user/1420772) join
